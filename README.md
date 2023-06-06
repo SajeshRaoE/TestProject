@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SajeshRaoE
-- 👀 I’m interested in Data Science field
-- 🌱 I’m currently learning Python. 
+- 👀 I believe, people who have data will rule the world.
+- 🌱 I get excited teverytime I bring out some smart and better solution to the problem. 
 
 
 <!---
